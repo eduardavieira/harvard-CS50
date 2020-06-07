@@ -38,6 +38,7 @@ In my case I chose to implement a three-level interactive game with two Sprites:
 |    |    +-- mario.c
 |
 +-- psets2
+|    +-- readability.c
 |    +-- substitution.c
 
 ```
