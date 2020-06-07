@@ -17,9 +17,16 @@ In my case I chose to implement a three-level interactive game with two Sprites:
 
 [Problem Set 1 description](https://cs50.harvard.edu/x/2020/psets/1/).
 
+[Hello](https://cs50.harvard.edu/x/2020/psets/1/hello/)
+[Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/)
+[Cash](https://cs50.harvard.edu/x/2020/psets/1/cash/)
+
 ## Problem Set 2
 
 [Problem Set 2 description](https://cs50.harvard.edu/x/2020/psets/2/).
+
+[Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/)
+[Substitution](https://cs50.harvard.edu/x/2020/psets/2/substitution/)
 
 ## The repository
 
