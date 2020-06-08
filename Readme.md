@@ -25,6 +25,10 @@ In my case I chose to implement a three-level interactive game with two Sprites:
 
 [Substitution](https://cs50.harvard.edu/x/2020/psets/2/substitution/)
 
+## [Problem Set 3](https://cs50.harvard.edu/x/2020/psets/3/)
+
+[Plurality](https://cs50.harvard.edu/x/2020/psets/3/plurality/)
+
 ## The repository
 
 ```
@@ -44,5 +48,8 @@ In my case I chose to implement a three-level interactive game with two Sprites:
 +-- psets2
 |    +-- readability.c
 |    +-- substitution.c
+|
++-- psets3
+|    +-- plurality.c
 
 ```
